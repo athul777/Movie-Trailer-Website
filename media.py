@@ -3,6 +3,7 @@ Defines the class Movie so we can create
 Movie objects (in entertainmen_center.py).
 '''
 
+
 class Movie():
     """This class provides a way to store movie related information."""
 
